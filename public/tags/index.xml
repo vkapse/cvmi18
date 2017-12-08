@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Computer Vision for Microscopy Image Analysis (CVMI)at the 2018 IEEE International Conference on Computer Vision and Pattern Recognition (CVPR) </title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Computer Vision for Microscopy Image Analysis (CVMI)at the 2018 IEEE International Conference on Computer Vision and Pattern Recognition (CVPR) </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

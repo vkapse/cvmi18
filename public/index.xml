@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision for Microscopy Image Analysis (CVMI)at the 2018 IEEE International Conference on Computer Vision and Pattern Recognition (CVPR) </title>
+    <link>/</link>
+    <description>Recent content on Computer Vision for Microscopy Image Analysis (CVMI)at the 2018 IEEE International Conference on Computer Vision and Pattern Recognition (CVPR) </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jun 2016 13:08:28 -0400</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>abstract4</title>
+      <link>/abstract4/</link>
+      <pubDate>Tue, 28 Jun 2016 13:08:28 -0400</pubDate>
+      
+      <guid>/abstract4/</guid>
+      <description>Microscopic Image Analytics: A Model-based learning Approach abstract
+Microscopic image analytics is becoming increasingly important due to the current explosion data, the many biological applications, the role in drug discovery and evaluation, and the ability to quantitate and discover complex spatiotemporal cell properties at multiple scales. In this talk I will present a range of computational methods based on coupled modeling and learning methods to address complex problems in microscopic image analysis.</description>
+    </item>
+    
+    <item>
+      <title>abstract2</title>
+      <link>/abstract2/</link>
+      <pubDate>Mon, 20 Jun 2016 08:04:34 -0400</pubDate>
+      
+      <guid>/abstract2/</guid>
+      <description>Self-organization of stem cells during neural specification abstract
+The origin of cell type diversity in stem cell culture remains a key question in basic cell biology, disease modeling, and drug discovery. Human ES and iPS cell lines reflect the epiblast stage in early development where immediately prior to gastrulation, cell fates are spatially segregated by migration during an epithelial to mesenchymal transition in response to the organizing factor nodal. Similarly, cultured pluripotent cells self-organize into discrete domains that exhibit properties of lineage priming, or expression of gene expression modules that reflect terminally-differentiated cell fates of the early embryo.</description>
+    </item>
+    
+    <item>
+      <title>abstract3</title>
+      <link>/abstract3/</link>
+      <pubDate>Mon, 20 Jun 2016 08:04:07 -0400</pubDate>
+      
+      <guid>/abstract3/</guid>
+      <description>Semi-supervised learning for hierarchical cell detection and segmentation abstract
+Machine learning is making a significant impact in many areas of computer vision including biomedical image analysis. However, state-of-the-art approaches use supervised learning that requires very large amounts of labeled data to fully constrain complex models such as convolutional neural networks. In this talk, we will discuss our recent efforts in semi-supervised learning for cell detection and segmentation. We build hierarchical models of images, i.</description>
+    </item>
+    
+    <item>
+      <title>abstract1</title>
+      <link>/abstract1/</link>
+      <pubDate>Fri, 17 Jun 2016 10:11:53 -0400</pubDate>
+      
+      <guid>/abstract1/</guid>
+      <description>Mixing Crowds, Computers, and Experts for Scalable Annotation of Biomedical Images abstract
+Biomedical researchers are running image-based studies to systematically study fundamental biological processes. The larger goal of this effort is to contribute to discoveries and innovations that, for example, address society’s health care problems or lead to new bio-inspired technology. However, the key bottlenecks for extracting the desired information from images lie in unreliable annotation from algorithms and costly annotation by experts, especially at scale.</description>
+    </item>
+    
+    <item>
+      <title>Invited Speakers and Panelists</title>
+      <link>/invitedspeakersandpanelists/</link>
+      <pubDate>Sat, 11 Jun 2016 00:41:41 -0400</pubDate>
+      
+      <guid>/invitedspeakersandpanelists/</guid>
+      <description>Invited Speakers and Panelists TBD</description>
+    </item>
+    
+    <item>
+      <title>Submission</title>
+      <link>/submisstion/</link>
+      <pubDate>Fri, 12 Feb 2016 11:39:34 -0500</pubDate>
+      
+      <guid>/submisstion/</guid>
+      <description>Submission Authors are required to submit full papers by the paper submission deadline. These are hard deadlines; no extensions will be given. Please submit manuscript here: https://cmt3.research.microsoft.com/CVMIA2018/
+Submitted papers must be no longer than 8 pages following the official CVPR guideline. Papers longer than 8 pages or violating formatting specifications will not be reviewed. For more details on the submission process and for templates to use with LaTeX and Word, please consult CVPR 2018 webpage.</description>
+    </item>
+    
+    <item>
+      <title>Call for Papers</title>
+      <link>/callforpaper/</link>
+      <pubDate>Fri, 12 Feb 2016 11:03:08 -0500</pubDate>
+      
+      <guid>/callforpaper/</guid>
+      <description>Call for Papers High-throughput microscopy enables researchers to acquire thousands of images automatically over a matter of hours. This makes it possible to conduct large-scale, image-based experiments for biological discovery. The main challenge and bottleneck in such experiments is the conversion of “big visual data” into interpretable information and hence discoveries. Visual analysis of large-scale image data is a daunting task. Cells need to be located and their phenotype (e.</description>
+    </item>
+    
+    <item>
+      <title>Venue</title>
+      <link>/venue/</link>
+      <pubDate>Fri, 12 Feb 2016 00:38:17 -0500</pubDate>
+      
+      <guid>/venue/</guid>
+      <description>Venue Octavius 11, Caesars Palace in Salt Lake, Utah</description>
+    </item>
+    
+    <item>
+      <title>Program Committee</title>
+      <link>/programcommittee/</link>
+      <pubDate>Thu, 11 Feb 2016 23:32:03 -0500</pubDate>
+      
+      <guid>/programcommittee/</guid>
+      <description>Program Committee Prof. Margrit Betke
+Prof. Weidong (Tom) Cai
+Prof. Xun Cao
+Prof. Antonio Cardone
+Prof. Edward Delp
+Prof. Nathan Hotaling
+Prof. Sang-Chu Lee
+Prof. An-An Liu
+Prof. Zhan Ma
+Prof. Xubo Song
+Prof. Piotr M. Szczypiński
+Prof. Tolga Tasdizen
+Prof. Zhaozheng Yin
+Prof. Tao Yue</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>/welcome/</link>
+      <pubDate>Thu, 11 Feb 2016 23:28:27 -0500</pubDate>
+      
+      <guid>/welcome/</guid>
+      <description>Welcome The Workshop on Computer Vision for Microscopy Image Analysis (CVMI) will be held on June 18, 2018 in conjunction with the CVPR 2018 conference.
+This workshop will bring together computer vision experts from academia, industry, and government who have made progress in developing computer vision tools for microscopy image analysis. It will provide a comprehensive forum on this topic and foster in-depth discussion of technical and application issues. It will also serve as an introduction to researchers and students curious about this important and fertile field.</description>
+    </item>
+    
+    <item>
+      <title>Program</title>
+      <link>/program/</link>
+      <pubDate>Wed, 10 Feb 2016 18:47:47 -0500</pubDate>
+      
+      <guid>/program/</guid>
+      <description>Program TBD</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Wed, 10 Feb 2016 18:46:59 -0500</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Contact If you have any questions, please feel free to contact us.
+Workshop chairs:
+Mei Chen meichen@albany.edu
+Dimitris Metaxas dnm@cs.rutgers.edu
+Webpage:
+Lin Zhang lzhang22@albany.edu</description>
+    </item>
+    
+    <item>
+      <title>Organizers</title>
+      <link>/organizerscommittee/</link>
+      <pubDate>Wed, 10 Feb 2016 18:46:48 -0500</pubDate>
+      
+      <guid>/organizerscommittee/</guid>
+      <description>Organizers Chair Prof. Mei Chen (University at Albany, State University of New York)
+Prof. Dimitris Metaxas (Rutgers University)
+Organizing Committee: Dr. Peter Bajcsy (National Institute of Standards and Technology)
+Prof. Mei Chen (University at Albany, State University of New York)
+Dr. Daniel Hoeppner (Lieber Institute for Brain Development)
+Prof. Dimitris Metaxas (Rutgers University)</description>
+    </item>
+    
+    <item>
+      <title>Important Dates</title>
+      <link>/importantdates/</link>
+      <pubDate>Wed, 10 Feb 2016 18:44:03 -0500</pubDate>
+      
+      <guid>/importantdates/</guid>
+      <description> Important Dates    Event Date     Paper submission deadline: Friday March 7, 2018, 11:59pm, EDT   Notification of acceptance: Monday, March 31, 2018, EDT   Camera-ready submission deadline: Monday, April 10, 2018, 11:59pm, EDT    </description>
+    </item>
+    
+  </channel>
+</rss>

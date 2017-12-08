@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+    {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+    {{ .Hugo.Generator }}
+    <!--link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /-->
+{{ .Scratch.Add "title" "" }}{{ if isset .Site.Data.titles .Title }}{{ .Scratch.Set "title" (index .Site.Data.titles .Title).title }}{{ else }}{{ .Scratch.Set "title" .Title}}{{end}}
+    <title>CVMI - {{ .Scratch.Get "title" }}</title>
+
+    <link href="/css/bootstrap-gohugo.css" rel="stylesheet">
+    <link href="/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/css/style.css" rel="stylesheet">
+    <link href="/css/style-responsive.css" rel="stylesheet" />
+    <link href="/css/monokai-sublime.css" rel="stylesheet" />
+
+  </head>
+
+  <body>
+  <!-- container section start -->
+  <section id="container" class="">
+
+      <!--header start-->
+	  <img src="/img/cell_img5.png" width="100%" >
+      <div class="header black-bg">
+            <!--div class="toggle-nav">
+                <i class="fa fa-bars"></i>
+                <div class="icon-reorder tooltips" data-original-title="Toggle Navigation" data-placement="bottom"></div>
+            </div-->
+
+            <!--logo start-->
+            <!--logo end-->
+            <div class="nav title-row" id="top_menu">
+                <h1 class="nav top-menu">{{.Site.Title}}</h1>
+				<h2 class="nav">Salt Lake City, Utah, June 18, 2018</h2>
+            </div>
+      </div>
+      <!--header end-->
+
+
+      <!--main content start-->
+      <section id="main-content">
+		{{ partial "menu.html" . }}
+          <section class="wrapper">
+
+              <!--<div class="row">-->
+                  <!--<div class="col-lg-12">-->
+                      <!--breadcrumbs start -->
+                      <!--<ul class="breadcrumb">-->
+                          <!--<li><a href="#"><i class="icon_house_alt"></i> Home</a></li>-->
+                          <!--<li><a href="#"> UI Kit</a></li>-->
+                          <!--<li class="active"> General</li>-->
+                      <!--</ul>-->
+                      <!--breadcrumbs end -->
+                  <!--</div>-->
+              <!--</div>-->
+
+              <div class="row">
+                  <div class="col-md-1">
+                      {{ if .IsPage }}
+                      {{ with .GetParam "prev" }}
+                      <a class="navigation prev" href="{{.}}">
+                      <i class="fa fa-angle-left"></i>
+                      </a>
+                      {{ end }}
+                      {{ end }}
+                  </div>
+                <div class="col-md-10">
+                    <section class="panel">
+                          <!--<header class="panel-heading">-->
+                              <!--<h3>{{ .Scratch.Get "title" }}</h3>-->
+                          <!--</header>-->
+                    <div class="panel-body">
+                        <div class="row">
+                        </div>
