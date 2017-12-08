@@ -1,3 +1,4 @@
+baseurl = "https://vkapse.github.io/cvmi18/"
 languageCode = "en-us"
 publishDir = "docs"
 relativeURLs = true
