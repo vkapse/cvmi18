@@ -1,4 +1,5 @@
 languageCode = "en-us"
+publishDir = "docs"
 relativeURLs = true
 title = "Computer Vision for Microscopy Image Analysis (CVMI)"
 MetaDataFormat = "yaml"
